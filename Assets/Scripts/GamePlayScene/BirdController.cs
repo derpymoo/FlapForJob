@@ -1,6 +1,5 @@
 using UnityEngine;
 
-
 public class BirdController : MonoBehaviour
 {
     public float jumpForce = 5f;
@@ -9,8 +8,21 @@ public class BirdController : MonoBehaviour
 
     void Start()
     {
+        string selectedName = PlayerPrefs.GetString("SelectedCharacter", "DefaultBird");
+        SpriteRenderer sr = GetComponent<SpriteRenderer>();
+
+        // Assign sprite
+        Sprite[] allSprites = Resources.LoadAll<Sprite>("Animals"); // folder with animal sprites
+        foreach (Sprite s in allSprites)
+        {
+            if (s.name == selectedName)
+            {
+                sr.sprite = s;
+                break;
+            }
+        }
         rb = GetComponent<Rigidbody2D>();
-        rb.simulated = false;   // FREEZE physics at start
+        rb.simulated = false;   // freeze physics at start
     }
 
     void Update()
@@ -24,7 +36,7 @@ public class BirdController : MonoBehaviour
             return;
         }
 
-        // Normal gameplay input
+        // Gameplay input
         if (Input.GetMouseButtonDown(0) || Input.GetKeyDown(KeyCode.Space))
         {
             rb.linearVelocity = Vector2.up * jumpForce;
@@ -34,7 +46,7 @@ public class BirdController : MonoBehaviour
     void StartGame()
     {
         gameStarted = true;
-        rb.simulated = true;    // ENABLE physics
+        rb.simulated = true;    // enable physics
         rb.linearVelocity = Vector2.up * jumpForce;
     }
 

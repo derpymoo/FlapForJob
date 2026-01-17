@@ -20,6 +20,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SummoningScene.unity
     guid: cbc218cfb11a1e14babe651e71d9f605
+  - enabled: 1
+    path: Assets/Scenes/InventoryScene.unity
+    guid: 579d75989a317f84395bc4024fb2a17a
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

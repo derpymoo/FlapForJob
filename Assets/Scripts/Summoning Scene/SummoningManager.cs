@@ -99,6 +99,12 @@ public class SummoningManager : MonoBehaviour
             // Show return button
             returnButton.gameObject.SetActive(true);
         }
+        UnlockCharacter(chosen.name);
+    }
+    void UnlockCharacter(string name)
+    {
+        PlayerPrefs.SetInt("Unlocked_" + name, 1);
+        PlayerPrefs.Save();
     }
 
 

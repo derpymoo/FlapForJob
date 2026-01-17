@@ -16,6 +16,7 @@ public class SummoningManager : MonoBehaviour
     public Text rarityText;
     public Text animalNameText;
     public Button returnButton;
+    public GameObject textBackground;
 
     [Header("Animal Pools")]
     public Sprite[] rareAnimals;
@@ -29,9 +30,10 @@ public class SummoningManager : MonoBehaviour
 
     void Start()
     {
-        // Hide animal and button at start
+        // Hide animal and button and text button at start
         animalImage.gameObject.SetActive(false);
         returnButton.gameObject.SetActive(false);
+        textBackground.SetActive(false);
 
         // Start the summon process
         StartCoroutine(SummonFlow());
@@ -86,7 +88,8 @@ public class SummoningManager : MonoBehaviour
             animalImage.sprite = chosen;
             animalImage.gameObject.SetActive(true);
 
-            // Set rarity and name text
+            // Set rarity and name text, and background to visible
+            textBackground.SetActive(true);
             rarityText.text = rolledRarity;
             animalNameText.text = chosen.name;
 

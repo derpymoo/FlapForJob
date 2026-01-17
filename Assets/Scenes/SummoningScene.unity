@@ -946,7 +946,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: a1a0fd059206258498bff7f4377ad937, type: 3}
   - {fileID: 21300000, guid: 38562216c95439445bd4c984b4ed3ae7, type: 3}
   - {fileID: 21300000, guid: d76fcc454531f2c4bbd2efe4897dcbaf, type: 3}
-  - {fileID: 21300000, guid: e2906fd6cb4f1d4428b95863c548ed4d, type: 3}
+  - {fileID: 21300000, guid: d29ed4373898fe0438b6259d0a455712, type: 3}
   - {fileID: 21300000, guid: 634d2fba8b840f740b0ef7cc36b6c951, type: 3}
   legendaryAnimals:
   - {fileID: 21300000, guid: 2ae74c1e2b22de247aa449e0b105f504, type: 3}

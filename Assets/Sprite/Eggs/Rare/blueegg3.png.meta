@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 01359f6afaae0074e877bd107bf1fc1d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2559763989892653362
+    second: blueegg3_0
+  - first:
+      213: 4217796936366321876
+    second: blueegg3_1
+  - first:
+      213: 3259204058318624966
+    second: blueegg3_2
+  - first:
+      213: -5422073527405677306
+    second: blueegg3_3
+  - first:
+      213: -2323484244848649058
+    second: blueegg3_4
+  - first:
+      213: 8098331689713902792
+    second: blueegg3_5
+  - first:
+      213: -606684866859160475
+    second: blueegg3_6
+  - first:
+      213: 5945791433396181085
+    second: blueegg3_7
+  - first:
+      213: -4538338072561494172
+    second: blueegg3_8
+  - first:
+      213: -8252577085107423731
+    second: blueegg3_9
+  - first:
+      213: 8834811406150054399
+    second: blueegg3_10
+  - first:
+      213: -8851002494960314770
+    second: blueegg3_11
+  - first:
+      213: -4032863645238166300
+    second: blueegg3_12
+  - first:
+      213: 2562418802801208768
+    second: blueegg3_13
+  - first:
+      213: -5165599700979818326
+    second: blueegg3_14
+  - first:
+      213: -8437071373558455277
+    second: blueegg3_15
+  - first:
+      213: 3085036625889175162
+    second: blueegg3_16
+  - first:
+      213: -1458100881662919843
+    second: blueegg3_17
+  - first:
+      213: 2427942996682394033
+    second: blueegg3_18
+  - first:
+      213: 6217546155600505361
+    second: blueegg3_19
+  - first:
+      213: -7852093535610772549
+    second: blueegg3_20
+  - first:
+      213: 2546497182993155238
+    second: blueegg3_21
+  - first:
+      213: 2690318187385192456
+    second: blueegg3_22
+  - first:
+      213: -6545476660194595446
+    second: blueegg3_23
+  - first:
+      213: -2060148085777118155
+    second: blueegg3_24
+  - first:
+      213: -6197665373458139193
+    second: blueegg3_25
+  - first:
+      213: -7813761213816316796
+    second: blueegg3_26
+  - first:
+      213: 1620582879108586015
+    second: blueegg3_27
+  - first:
+      213: 6488852584786594058
+    second: blueegg3_28
+  - first:
+      213: -3270361472734236275
+    second: blueegg3_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blueegg3_0
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 455
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece9c91a634e97cd0800000000000000
+      internalID: -2559763989892653362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueegg3_1
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 447
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d078de77ff988a30800000000000000
+      internalID: 4217796936366321876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueegg3_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 80
+        width: 148
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8d792b2d40b3d20800000000000000
+      internalID: 3259204058318624966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueegg3_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 431
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6057fecaadce0c4b0800000000000000
+      internalID: -5422073527405677306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueegg3_4
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 52
+        width: 413
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c5490c36351cfd0800000000000000
+      internalID: -2323484244848649058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueegg3_5
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 431
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4afa6d3cd036070800000000000000
+      internalID: 8098331689713902792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueegg3_6
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 377
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c2144f35f9497f0800000000000000
+      internalID: -606684866859160475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueegg3_7
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 392
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58d3287ec1b38250800000000000000
+      internalID: 5945791433396181085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueegg3_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 342
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467575271959401c0800000000000000
+      internalID: -4538338072561494172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueegg3_9
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 311
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06b4a87dd4f87d80800000000000000
+      internalID: -8252577085107423731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueegg3_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 322
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1b4214a2e8b9a70800000000000000
+      internalID: 8834811406150054399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueegg3_11
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 275
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e665bcd102cea2580800000000000000
+      internalID: -8851002494960314770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueegg3_12
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 213
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecfdf5b1e36808c0800000000000000
+      internalID: -4032863645238166300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueegg3_13
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 202
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd6fba235a8f8320800000000000000
+      internalID: 2562418802801208768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueegg3_14
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 166
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0eb33c07a1058b0800000000000000
+      internalID: -5165599700979818326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueegg3_15
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 158
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3146e6a894089ea80800000000000000
+      internalID: -8437071373558455277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueegg3_16
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 139
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76a13d477040da20800000000000000
+      internalID: 3085036625889175162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueegg3_17
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 150
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b3cc539f8c3cbe0800000000000000
+      internalID: -1458100881662919843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueegg3_18
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 139
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9c62caa49c1b120800000000000000
+      internalID: 2427942996682394033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueegg3_19
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 104
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ae92b5949294650800000000000000
+      internalID: 6217546155600505361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueegg3_20
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 96
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb367c21882c70390800000000000000
+      internalID: -7852093535610772549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueegg3_21
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 84
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a407dd22b9f65320800000000000000
+      internalID: 2546497182993155238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueegg3_22
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 77
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8000ed3332ee55520800000000000000
+      internalID: 2690318187385192456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueegg3_23
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 81
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8dad7f28abc925a0800000000000000
+      internalID: -6545476660194595446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueegg3_24
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 77
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ccd8a2b32e863e0800000000000000
+      internalID: -2060148085777118155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueegg3_25
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 77
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7f942fd287df9a0800000000000000
+      internalID: -6197665373458139193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueegg3_26
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 81
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cd0ca3391ff8390800000000000000
+      internalID: -7813761213816316796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueegg3_27
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ad856da877d7610800000000000000
+      internalID: 1620582879108586015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueegg3_28
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 65
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a098414eb090d0a50800000000000000
+      internalID: 6488852584786594058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueegg3_29
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 68
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d817d8251975d92d0800000000000000
+      internalID: -3270361472734236275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6a766379bf8dfa0499ceb7bab53f0777
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      blueegg3_0: -2559763989892653362
+      blueegg3_1: 4217796936366321876
+      blueegg3_10: 8834811406150054399
+      blueegg3_11: -8851002494960314770
+      blueegg3_12: -4032863645238166300
+      blueegg3_13: 2562418802801208768
+      blueegg3_14: -5165599700979818326
+      blueegg3_15: -8437071373558455277
+      blueegg3_16: 3085036625889175162
+      blueegg3_17: -1458100881662919843
+      blueegg3_18: 2427942996682394033
+      blueegg3_19: 6217546155600505361
+      blueegg3_2: 3259204058318624966
+      blueegg3_20: -7852093535610772549
+      blueegg3_21: 2546497182993155238
+      blueegg3_22: 2690318187385192456
+      blueegg3_23: -6545476660194595446
+      blueegg3_24: -2060148085777118155
+      blueegg3_25: -6197665373458139193
+      blueegg3_26: -7813761213816316796
+      blueegg3_27: 1620582879108586015
+      blueegg3_28: 6488852584786594058
+      blueegg3_29: -3270361472734236275
+      blueegg3_3: -5422073527405677306
+      blueegg3_4: -2323484244848649058
+      blueegg3_5: 8098331689713902792
+      blueegg3_6: -606684866859160475
+      blueegg3_7: 5945791433396181085
+      blueegg3_8: -4538338072561494172
+      blueegg3_9: -8252577085107423731
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

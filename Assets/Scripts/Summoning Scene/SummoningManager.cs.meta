@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 60abf0f50ceec824c8674ed4c59343c8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - eggRenderer: {instanceID: 0}
+  - eggAnimator: {instanceID: 0}
+  - rareEgg: {fileID: -4545602722618922640, guid: 6327484943a18da449f7f210b0552de3, type: 3}
+  - epicEgg: {fileID: 4086644397182547459, guid: f37148c7e19d4254bb35687a4987bfac, type: 3}
+  - legendaryEgg: {fileID: 953458793886054187, guid: 26512d86c36744e4796f4beda97609ad, type: 3}
+  - animalRenderer: {instanceID: 0}
+  - rarityText: {instanceID: 0}
+  - animalNameText: {instanceID: 0}
+  - returnButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: b339ed401eb87de498a78463718ef758
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1309355231845871069
+    second: purple-egg3_0
+  - first:
+      213: -6063795216363885822
+    second: purple-egg3_1
+  - first:
+      213: -8292779240370293628
+    second: purple-egg3_2
+  - first:
+      213: 6679783120888437767
+    second: purple-egg3_3
+  - first:
+      213: 2387768563234090302
+    second: purple-egg3_4
+  - first:
+      213: 8309770493201399857
+    second: purple-egg3_5
+  - first:
+      213: -4009043231678644914
+    second: purple-egg3_6
+  - first:
+      213: -8139327650535476151
+    second: purple-egg3_7
+  - first:
+      213: 8428198223044610267
+    second: purple-egg3_8
+  - first:
+      213: -4391618859261219214
+    second: purple-egg3_9
+  - first:
+      213: -1518608216525188382
+    second: purple-egg3_10
+  - first:
+      213: -5048064778579632526
+    second: purple-egg3_11
+  - first:
+      213: 8885953827860176078
+    second: purple-egg3_12
+  - first:
+      213: 3007605280086902108
+    second: purple-egg3_13
+  - first:
+      213: -5997337061749137640
+    second: purple-egg3_14
+  - first:
+      213: 6312378903455603627
+    second: purple-egg3_15
+  - first:
+      213: -1199029094681192642
+    second: purple-egg3_16
+  - first:
+      213: -8259579739182631345
+    second: purple-egg3_17
+  - first:
+      213: 4684591929055511622
+    second: purple-egg3_18
+  - first:
+      213: 3747281732098411164
+    second: purple-egg3_19
+  - first:
+      213: 7685411330973168402
+    second: purple-egg3_20
+  - first:
+      213: -2103780156070412480
+    second: purple-egg3_21
+  - first:
+      213: 439156804328668023
+    second: purple-egg3_22
+  - first:
+      213: 9117311457542360213
+    second: purple-egg3_23
+  - first:
+      213: 4948302745144470238
+    second: purple-egg3_24
+  - first:
+      213: -142321295897261576
+    second: purple-egg3_25
+  - first:
+      213: 7107639375160126070
+    second: purple-egg3_26
+  - first:
+      213: 2208475080676856123
+    second: purple-egg3_27
+  - first:
+      213: 3552915831382868624
+    second: purple-egg3_28
+  - first:
+      213: -2465092900687285197
+    second: purple-egg3_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: purple-egg3_0
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 455
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddde8f665a3cb2210800000000000000
+      internalID: 1309355231845871069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple-egg3_1
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 447
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20beae9c06219dba0800000000000000
+      internalID: -6063795216363885822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple-egg3_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 80
+        width: 148
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484bef8c7312aec80800000000000000
+      internalID: -8292779240370293628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple-egg3_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 431
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c94318b5b53bc50800000000000000
+      internalID: 6679783120888437767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple-egg3_4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 52
+        width: 380
+        height: 408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3da9697bde032120800000000000000
+      internalID: 2387768563234090302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple-egg3_5
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 431
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130ca4c8c3c325370800000000000000
+      internalID: 8309770493201399857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple-egg3_6
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 377
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d3c9eeb640d58c0800000000000000
+      internalID: -4009043231678644914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple-egg3_7
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 392
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944715730ac4b0f80800000000000000
+      internalID: -8139327650535476151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple-egg3_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 342
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8072d11a9f6f470800000000000000
+      internalID: 8428198223044610267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple-egg3_9
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 311
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e24d05ae5dd03c0800000000000000
+      internalID: -4391618859261219214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple-egg3_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 322
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2d60d7fd1dceae0800000000000000
+      internalID: -1518608216525188382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple-egg3_11
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 275
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e999564dba1f9b0800000000000000
+      internalID: -5048064778579632526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple-egg3_12
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 213
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccd0283def315b70800000000000000
+      internalID: 8885953827860176078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple-egg3_13
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 202
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c554b2831192db920800000000000000
+      internalID: 3007605280086902108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple-egg3_14
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 166
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f5824b7bd25cca0800000000000000
+      internalID: -5997337061749137640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple-egg3_15
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 158
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab14241b231a9750800000000000000
+      internalID: 6312378903455603627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple-egg3_16
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 139
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e375b2024613c5fe0800000000000000
+      internalID: -1199029094681192642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple-egg3_17
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 150
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4671040df3106d80800000000000000
+      internalID: -8259579739182631345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple-egg3_18
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 139
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64404091a83030140800000000000000
+      internalID: 4684591929055511622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple-egg3_19
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 104
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a4903a1e4010430800000000000000
+      internalID: 3747281732098411164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple-egg3_20
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 96
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213fa6fe2e018aa60800000000000000
+      internalID: 7685411330973168402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple-egg3_21
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 84
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f38e7281fddc2e0800000000000000
+      internalID: -2103780156070412480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple-egg3_22
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 77
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bb4ba69c2381600800000000000000
+      internalID: 439156804328668023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple-egg3_23
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 81
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c496d0772378e70800000000000000
+      internalID: 9117311457542360213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple-egg3_24
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 77
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda2d652127eba440800000000000000
+      internalID: 4948302745144470238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple-egg3_25
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 77
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f90212198f560ef0800000000000000
+      internalID: -142321295897261576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple-egg3_26
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 81
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67aaff39a5863a260800000000000000
+      internalID: 7107639375160126070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple-egg3_27
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31db07826416ae10800000000000000
+      internalID: 2208475080676856123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple-egg3_28
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 65
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092007edf1e7e4130800000000000000
+      internalID: 3552915831382868624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple-egg3_29
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 68
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3347234411b3acdd0800000000000000
+      internalID: -2465092900687285197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: da54bcb7063e782478a037d73899d02c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      purple-egg3_0: 1309355231845871069
+      purple-egg3_1: -6063795216363885822
+      purple-egg3_10: -1518608216525188382
+      purple-egg3_11: -5048064778579632526
+      purple-egg3_12: 8885953827860176078
+      purple-egg3_13: 3007605280086902108
+      purple-egg3_14: -5997337061749137640
+      purple-egg3_15: 6312378903455603627
+      purple-egg3_16: -1199029094681192642
+      purple-egg3_17: -8259579739182631345
+      purple-egg3_18: 4684591929055511622
+      purple-egg3_19: 3747281732098411164
+      purple-egg3_2: -8292779240370293628
+      purple-egg3_20: 7685411330973168402
+      purple-egg3_21: -2103780156070412480
+      purple-egg3_22: 439156804328668023
+      purple-egg3_23: 9117311457542360213
+      purple-egg3_24: 4948302745144470238
+      purple-egg3_25: -142321295897261576
+      purple-egg3_26: 7107639375160126070
+      purple-egg3_27: 2208475080676856123
+      purple-egg3_28: 3552915831382868624
+      purple-egg3_29: -2465092900687285197
+      purple-egg3_3: 6679783120888437767
+      purple-egg3_4: 2387768563234090302
+      purple-egg3_5: 8309770493201399857
+      purple-egg3_6: -4009043231678644914
+      purple-egg3_7: -8139327650535476151
+      purple-egg3_8: 8428198223044610267
+      purple-egg3_9: -4391618859261219214
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

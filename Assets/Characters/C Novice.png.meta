@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: a3028d05135ec2d4dabc39f0c0c8770d
+guid: cb5f81e2ffe837541bbe57005bc637ef
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3559550795890408177
-    second: JS3pix_0
+      213: -3067924923722896548
+    second: C Novice_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: JS3pix_0
+      name: C Novice_0
       rect:
         serializedVersion: 2
-        x: 47
-        y: 59
-        width: 620
-        height: 704
+        x: 23
+        y: 17
+        width: 710
+        height: 722
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1fab10de690166130800000000000000
-      internalID: 3559550795890408177
+      spriteID: c5bede3598a8c65d0800000000000000
+      internalID: -3067924923722896548
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      JS3pix_0: 3559550795890408177
+      C Novice_0: -3067924923722896548
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

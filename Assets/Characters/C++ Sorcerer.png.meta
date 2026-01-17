@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: dd047e6076fd23f4c9b1328ffada8aff
+guid: b3d799ddd7373eb4dab2e6c532a90bd9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6974750626486110528
-    second: python2pixelated_0
+      213: -8044071232785940346
+    second: C++ Sorcerer_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: python2pixelated_0
+      name: C++ Sorcerer_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 35
-        width: 752
-        height: 698
+        x: 11
+        y: 23
+        width: 740
+        height: 728
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0c6bc5f4245b43f90800000000000000
-      internalID: -6974750626486110528
+      spriteID: 6800bd545d7bd5090800000000000000
+      internalID: -8044071232785940346
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      python2pixelated_0: -6974750626486110528
+      C++ Sorcerer_0: -8044071232785940346
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
